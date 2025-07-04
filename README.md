@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NonnatusP
-- 👀 I’m interested in Land Surveying
+- 👀 I’m interested in Geospatial Engineering
 - 🌱 I’m currently learning Bachelor's of Technology, Survey Technology
-- 💞️ I’m looking to collaborate on drone technology to aid in land surveying practices
+- 💞️ I’m looking to collaborate on GIS and drone technology to aid in engineering practices
 - 📫 How to reach me nonnatuspino@gmail.com 
 
 <!---
