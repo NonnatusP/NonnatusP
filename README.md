@@ -28,11 +28,6 @@
 🎓 BTech, Survey Technology — The Technical University of Kenya
 🎓 Diploma, Land Survey — RCMRD
 
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NonnatusP&show_icons=true&theme=radical)
 
 ---
 
