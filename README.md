@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @NonnatusP
-- 👀 I’m interested in Geospatial Engineering
-- 🌱 I’m currently learning Bachelor's of Technology, Survey Technology
-- 💞️ I’m looking to collaborate on GIS and drone technology to aid in engineering practices
-- 📫 How to reach me nonnatuspino@gmail.com 
-
-<!---
-NonnatusP/NonnatusP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @NonnatusP (Pino Raymund Nonnatus)
+- 🛰️ Registered Engineering Surveyor & GIS Professional (ISK No. 4733)
+- 🌉 Currently Assistant Engineering Surveyor on the New Tana River Bridge Project (Rhines Engineering Services Ltd / Batch Consulting Engineers JV)
+- 🎓 BTech in Survey Technology, The Technical University of Kenya | Diploma in Land Survey, RCMRD
+- 🛠️ Tech stack: RTK GNSS, Total Station, UAV Mapping (Pix4D, DroneDeploy), ArcGIS Pro, QGIS, AutoCAD Civil 3D
+- 🚁 Pursuing KCAA Remote Pilot Licence — exploring RPAS applications in precision agriculture and infrastructure
+- 🤝 Open to collaborating on GIS, UAV mapping, and engineering surveying projects across East Africa
+- 📬 Reach me: nonnatuspino@gmail.com
