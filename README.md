@@ -1,4 +1,4 @@
-# Hi, I'm Pino Raymund Nonnatus 👋
+# Hi, I'm Raymund Nonnatus 👋
 
 🛰️ **Registered Engineering Surveyor & GIS Professional** (ISK No. 4733)
 🌉 Currently: Assistant Engineering Surveyor — New Tana River Bridge Project
