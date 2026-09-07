@@ -1,7 +1,7 @@
 # Hi, I'm Raymund Nonnatus 👋
 
-🛰️ **Registered Engineering Surveyor & GIS Professional** (ISK No. 4733)
-🌉 Currently: Assistant Engineering Surveyor — New Tana River Bridge Project
+🛰️ **Registered Survey Engineer & GIS Professional** (ISK No. 4733)
+🌉 Currently: Assistant Survey Engineer — New Tana River Bridge Project
 📍 Garissa, Kenya
 
 ---
@@ -12,7 +12,7 @@
 - 🌱 Background spans **KeNHA** (North Eastern Regional Office, Survey Directorate internship) and continuous growth into geospatial tech
 - 🚁 Pursuing a **KCAA Remote Pilot Licence**, with a growing interest in UAV/RPAS applications for precision agriculture and infrastructure monitoring
 - 🤝 Open to collaborating on **GIS, drone mapping, and engineering surveying** projects, especially across East Africa
-- 📬 Reach me: nonnatuspino@gmail.com
+- 📬 Reach me: raymund.p.nonnatus@gmail.com
 
 ---
 
