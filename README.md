@@ -2,7 +2,7 @@
 
 🛰️ **Registered Survey Engineer & GIS Professional** (ISK No. 4733)
 🌉 Currently: Assistant Survey Engineer — New Tana River Bridge Project
-📍 Garissa, Kenya
+📍 Nairobi, Kenya
 
 ---
 
